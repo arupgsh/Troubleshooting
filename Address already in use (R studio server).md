@@ -1,5 +1,5 @@
 
-##R studio server "address already in use" fix
+## R studio server "address already in use" fix
 
 Kill the process associated with 8787 port and restart the server.
 
