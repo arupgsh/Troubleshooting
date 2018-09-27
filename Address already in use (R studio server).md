@@ -1,4 +1,6 @@
 
+##R studio server "address already in use" fix
+
 Kill the process associated with 8787 port and restart the server.
 
 Source: https://stackoverflow.com/questions/31081426/initctl-unknown-instance-error-after-rstudio-conf-change/32851419#32851419
